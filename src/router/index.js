@@ -15,8 +15,8 @@
 // })
 import Vue from 'vue'
 import Router from 'vue-router'
-// import header from '@/components/header/header'
-// import footer from '@/components/footer/footer'
+// import header from '@/components/headJB/headJB'
+// import footer from '@/components/footJB/footJB'
 
 Vue.use(Router)
 

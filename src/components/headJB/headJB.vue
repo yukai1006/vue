@@ -1,6 +1,6 @@
 <template lang="html">
   <div class="header">
-    <div class="header-tit">{{msg}}</div>
+    <div>{{msg}}</div>
     <div class="right"><img src="./icon_menu.png" alt=""></div>
   </div>
 </template>
@@ -9,7 +9,7 @@
 export default {
   data () {
     return {
-      msg:'header'
+      msg:'ddddddsdd'
     }
   },
   computed: {},

@@ -1,16 +1,22 @@
 <template lang="html">
   <div id="app">
     <headJB></headJB>
+    <listbB></listbB>
+    <footJB></footJB>
   </div>
 </template>
 
 <script>
 import headJB from './components/headJB/headJB'
-// import footer from './components/footer/footer'
+import footJB from './components/footJB/footJB'
+import listB from './components/list/listB'
+
 export default {
   name:"app",
   components: {
-    headJB
+    'headJB':headJB,
+    'footJB':footJB,
+    'listbB':listB
   }
 }
 </script>
