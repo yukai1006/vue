@@ -9,7 +9,7 @@
 export default {
   data () {
     return {
-      msg:'ddddddsdd'
+      msg:'ddd的沙艾斯德斯发斯蒂芬dd'
     }
   },
   computed: {},
